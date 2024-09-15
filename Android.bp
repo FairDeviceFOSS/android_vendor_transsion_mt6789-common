@@ -146,7 +146,7 @@ dex_import {
 }
 
 prebuilt_etc_xml {
-	name: "android.hardware.neuralnetworks-shim-service-mtk",
+	name: "android.hardware.neuralnetworks-shim-service-mtk.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.neuralnetworks-shim-service-mtk.xml",
 	filename_from_src: true,
@@ -155,7 +155,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "android.hardware.security.keymint-service.trustonic",
+	name: "android.hardware.security.keymint-service.trustonic.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.security.keymint-service.trustonic.xml",
 	filename_from_src: true,
@@ -164,7 +164,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "android.hardware.security.secureclock-service.trustonic",
+	name: "android.hardware.security.secureclock-service.trustonic.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.security.secureclock-service.trustonic.xml",
 	filename_from_src: true,
@@ -173,7 +173,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "android.hardware.security.sharedsecret-service.trustonic",
+	name: "android.hardware.security.sharedsecret-service.trustonic.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.security.sharedsecret-service.trustonic.xml",
 	filename_from_src: true,
@@ -182,7 +182,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "android.hardware.usb@1.2-service-mediatekv2",
+	name: "android.hardware.usb@1.2-service-mediatekv2.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.usb@1.2-service-mediatekv2.xml",
 	filename_from_src: true,
@@ -191,7 +191,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "gnss-mtk",
+	name: "gnss-mtk.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/gnss-mtk.xml",
 	filename_from_src: true,
@@ -200,7 +200,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "gnss@2.1-service",
+	name: "gnss@2.1-service.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/gnss@2.1-service.xml",
 	filename_from_src: true,
@@ -209,7 +209,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "manifest_android.hardware.drm@1.4-service.widevine",
+	name: "manifest_android.hardware.drm@1.4-service.widevine.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.4-service.widevine.xml",
 	filename_from_src: true,
@@ -218,7 +218,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "manifest_apuware_apusys",
+	name: "manifest_apuware_apusys.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/manifest_apuware_apusys.xml",
 	filename_from_src: true,
@@ -227,7 +227,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "manifest_apuware_hmp",
+	name: "manifest_apuware_hmp.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/manifest_apuware_hmp.xml",
 	filename_from_src: true,
@@ -236,7 +236,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "manifest_apuware_utils",
+	name: "manifest_apuware_utils.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/manifest_apuware_utils.xml",
 	filename_from_src: true,
@@ -245,7 +245,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "manifest_hwcomposer",
+	name: "manifest_hwcomposer.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/manifest_hwcomposer.xml",
 	filename_from_src: true,
@@ -254,7 +254,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "manifest_media_c2_V1_1_default",
+	name: "manifest_media_c2_V1_1_default.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/manifest_media_c2_V1_1_default.xml",
 	filename_from_src: true,
@@ -263,7 +263,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "manifest_tneengine",
+	name: "manifest_tneengine.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/manifest_tneengine.xml",
 	filename_from_src: true,
@@ -272,7 +272,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "vendor.mediatek.hardware.tranHwInfo@1.0",
+	name: "vendor.mediatek.hardware.tranHwInfo@1.0.xml",
 	owner: "transsion",
 	src: "proprietary/vendor/etc/vintf/manifest/vendor.mediatek.hardware.tranHwInfo@1.0.xml",
 	filename_from_src: true,
